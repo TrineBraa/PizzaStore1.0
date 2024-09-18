@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\users\\trine\\PizzaStore\\PizzaStore.csproj": {}
+    "C:\\Users\\trine\\PizzaStore\\PizzaStore.csproj": {}
   },
   "projects": {
-    "C:\\users\\trine\\PizzaStore\\PizzaStore.csproj": {
+    "C:\\Users\\trine\\PizzaStore\\PizzaStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\users\\trine\\PizzaStore\\PizzaStore.csproj",
+        "projectUniqueName": "C:\\Users\\trine\\PizzaStore\\PizzaStore.csproj",
         "projectName": "PizzaStore",
-        "projectPath": "C:\\users\\trine\\PizzaStore\\PizzaStore.csproj",
+        "projectPath": "C:\\Users\\trine\\PizzaStore\\PizzaStore.csproj",
         "packagesPath": "C:\\Users\\trine\\.nuget\\packages\\",
-        "outputPath": "C:\\users\\trine\\PizzaStore\\obj\\",
+        "outputPath": "C:\\Users\\trine\\PizzaStore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\trine\\AppData\\Roaming\\NuGet\\NuGet.Config",

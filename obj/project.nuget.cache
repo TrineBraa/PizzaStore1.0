@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "V4XSPBC7fZ0=",
+  "dgSpecHash": "twdJZXpWhlY=",
   "success": true,
-  "projectFilePath": "C:\\users\\trine\\PizzaStore\\PizzaStore.csproj",
+  "projectFilePath": "C:\\Users\\trine\\PizzaStore\\PizzaStore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\trine\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\trine\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
